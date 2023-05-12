@@ -58,3 +58,4 @@ build/
 *.out
 *.wsout
 commit.txt
+.mvn/**
